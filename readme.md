@@ -1,0 +1,1 @@
+Hello from Mighty Ghost!
